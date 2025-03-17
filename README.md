@@ -10,4 +10,4 @@ Galeria Flex para treino no desenvolvimento de sites.
 ## Autor
 [David Lucas](<https://www.linkedin.com/in/david-lucas-19370727b/>)
 
-[def]:./Revew.png
+[def]:./preview.png
